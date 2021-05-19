@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @nijuusanji.
+- I've just graduated from King Monkult's University of Technology Thonbury.
+- Media Technology Game Development.
+- 👀 I’m interested in Web and Game development.
+- 🌱 I’m currently learning React Js.
+- 💞️ I’m looking for work with Junior Frontend Developer position.
+- 📫 My email is kittitus.kong@outlook.com.
+- I live in Bangkok Thailand.
