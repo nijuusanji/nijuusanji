@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nijuusanji.
-- I've just graduated from King Monkult's University of Technology Thonbury.
+- I've just graduated from King Monkult's University of Technology Thonburi.
 - Media Technology Game Development.
 - 👀 I’m interested in Web and Game development.
 - 🌱 I’m currently learning React Js.
